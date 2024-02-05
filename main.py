@@ -1,4 +1,4 @@
-#ENCODED BY : XM9RTY AYUSH K1NG
+#ENCODED BY : XM9RTY RAHUL K1NG
 #ENCRYPTION : Py3 BASE64
 #GITHUB : https://github.com/ayushking420
 #----------------------------------------------
